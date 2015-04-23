@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Tool Chain}{2}{0}{1}
+\beamer@sectionintoc {2}{Conceptos}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Testing}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Versionado}{9}{0}{2}
+\beamer@sectionintoc {3}{Ejercitaci\'on}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Practica 1}{18}{0}{3}
